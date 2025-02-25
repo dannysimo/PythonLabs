@@ -1,8 +1,8 @@
-#Subiectul 2
-#a)
-#txt = "More results from text..."
-#substr = txt[4:12]
-#print(substr)
-#print(substr.strip()) 
+Subiectul 2 - a)
 
-#Rezulatul afișat va fi:"results" deoarece cu "substr" extragem subisrul din variabile "txt", iar cu "strip" eliminam spatiul liber
+# txt = "More results from text..."
+# substr = txt[4:12]
+# print(substr)
+# print(substr.strip())
+
+Rezultatul afișat va fi: "results", deoarece cu substr extragem subșirul din variabila txt, iar cu strip() eliminăm spațiul liber.
