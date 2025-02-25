@@ -6,4 +6,5 @@ substr = txt[4:12]
 print(substr)
 print(substr.strip())
 ```
-Rezultatul afișat va fi: "results", deoarece cu substr extragem subșirul din variabila txt, iar cu strip() eliminăm spațiul liber.
+Pentru inceput codul dat extrage din variabila "txt" subsirul " results", iar apoi cu ajutorul "strip" elimina spatiul liber. 
+Rezultatul afisat la consola fiind: "results".
