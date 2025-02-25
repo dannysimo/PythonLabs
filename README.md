@@ -1,6 +1,6 @@
 Subiectul 2 - a)
 
-# txt = "More results from text..."
+## txt = "More results from text..."
 # substr = txt[4:12]
 # print(substr)
 # print(substr.strip())
